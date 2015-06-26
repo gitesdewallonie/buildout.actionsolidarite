@@ -11,6 +11,7 @@
 # Packages
 *.egg
 *.egg-info
+buildout.cfg
 versions-picked.cfg
 devel
 dist
